@@ -1,6 +1,6 @@
 # 黃柏勝 ( Po-Sheng Huang )
 * 英文名字 ( English Name ) : Shawn
-* 現居地 ( Location ) : 台中(Taichung)
+* 現居地 ( Location ) : 台中 ( Taichung )
 * 個人網站 ( Personal Web ) : https://shawnhuang0321.github.io/personal-web/
 * 信箱 ( E-mail ) : shawn123456177@gmail.com
 
@@ -12,4 +12,4 @@
 * 能夠利用HTML建立網頁架構、CSS修飾網頁、jQuery撰寫特效，也熟悉flexbox概念。
 
 ## 作業 ( works )
-* 響應式網頁(RWD): https://shawnhuang0321.github.io/RWD-web/
+* 響應式網頁 ( RWD ) : https://shawnhuang0321.github.io/RWD-web/
