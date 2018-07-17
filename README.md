@@ -15,6 +15,6 @@
 ## 作業 ( works )
 * 響應式網頁 ( RWD ) : https://shawnhuang0321.github.io/RWD-web/
 * 韓國旅遊照片牆 : https://shawnhuang0321.github.io/KoreaTrip/
-** Masonry Plugin 製作瀑布流版型。 
-** light Box Plugin 製作燈箱效果。 
-** Nivo Slider Plugin 製作輪播特效。
+  * Masonry Plugin 製作瀑布流版型。 
+  * light Box Plugin 製作燈箱效果。 
+  * Nivo Slider Plugin 製作輪播特效。
