@@ -10,6 +10,11 @@
 ## 技能 ( skills )
 ### HTML/CSS/RWD/Bootstrap/jQuery
 * 能夠利用HTML建立網頁架構、CSS修飾網頁、jQuery撰寫特效，也熟悉flexbox概念。
+* 能使用jQuery Plugin製作網頁。
 
 ## 作業 ( works )
 * 響應式網頁 ( RWD ) : https://shawnhuang0321.github.io/RWD-web/
+* 韓國旅遊照片牆 : https://shawnhuang0321.github.io/KoreaTrip/
+** Masonry Plugin 製作瀑布流版型。 
+** light Box Plugin 製作燈箱效果。 
+** Nivo Slider Plugin 製作輪播特效。
