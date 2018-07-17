@@ -3,6 +3,7 @@
 * 現居地 ( Location ) : 台中 ( Taichung )
 * 個人網站 ( Personal Web ) : https://shawnhuang0321.github.io/personal-web/
 * 信箱 ( E-mail ) : shawn123456177@gmail.com
+* 興趣 ( interest ) : 閱讀書籍、撲克牌魔術愛好者、花式切牌菜鳥。
 
 ## 個人經歷
 * 瑋祥科技有限公司-環境工程師 ( 2017/06 ~ 2018/07)
