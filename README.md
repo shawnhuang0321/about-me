@@ -14,7 +14,7 @@
 * 能使用jQuery Plugin製作網頁。
 
 ## 作業 ( works )
-* 響應式網頁 ( RWD ) : https://shawnhuang0321.github.io/RWD-web/
+* 響應式網頁 ( Resposive Web Design ) : https://shawnhuang0321.github.io/RWD-web/
 
   * 利用Bootstrap製作網頁。
   * jQuery撰寫特效。
@@ -26,7 +26,7 @@
   * light Box Plugin 製作燈箱效果。 
   * Nivo Slider Plugin 製作輪播特效。
   
-* KaoHsiungTravelInfo : https://shawnhuang0321.github.io/KaoHsiungTravelInfo/
+* 高雄旅遊資訊網 : https://shawnhuang0321.github.io/KaoHsiungTravelInfo/
 
   * AJAX 介接 open data 的 JSON 資料。
   * 使用 Vue.js 框架。
