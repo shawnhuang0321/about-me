@@ -10,14 +10,21 @@
 
 ## 技能 ( skills )
 ### HTML/CSS/RWD/Bootstrap/jQuery
-* 能夠利用HTML建立網頁架構、CSS修飾網頁、jQuery撰寫特效，也熟悉flexbox概念。
-* 能使用jQuery Plugin製作網頁。
+* 能夠利用 HTML 建立網頁架構、CSS 修飾網頁、jQuery 撰寫特效，也熟悉 flexbox 概念。
+* 能使用 jQuery Plugin 製作網頁。
+
+### JS/AJAX/Vue.js
+* 會使用 Vue.js 框架。
+* 能利用 AJAX 介接 open data 的 JSON 資料。
+
+### Google maps API
+* 用 Google maps API 介接地圖、定位標記。
 
 ## 作業 ( works )
 * 響應式網頁 ( Resposive Web Design ) : https://shawnhuang0321.github.io/RWD-web/
 
-  * 利用Bootstrap製作網頁。
-  * jQuery撰寫特效。
+  * 利用 Bootstrap 製作網頁。
+  * jQuery 撰寫特效。
   * 單頁式網頁。
 
 * 韓國旅遊照片牆 : https://shawnhuang0321.github.io/KoreaTrip/
