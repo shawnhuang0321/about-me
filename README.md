@@ -25,3 +25,9 @@
   * Masonry Plugin 製作瀑布流版型。 
   * light Box Plugin 製作燈箱效果。 
   * Nivo Slider Plugin 製作輪播特效。
+  
+* KaoHsiungTravelInfo : https://shawnhuang0321.github.io/KaoHsiungTravelInfo/
+
+  * AJAX 介接 open data 的 JSON 資料。
+  * 使用 Vue.js 框架。
+  * Google maps API 製作地圖、標記。
