@@ -44,12 +44,6 @@
 * 利用 Bootstrap 製作網頁。
 * jQuery 撰寫特效。
 * 單頁式網頁。
-
-### 韓國旅遊照片牆 : https://shawnhuang0321.github.io/KoreaTrip/
-
-* Masonry Plugin 製作瀑布流版型。 
-* light Box Plugin 製作燈箱效果。 
-* Nivo Slider Plugin 製作輪播特效。
   
 ### 高雄旅遊資訊網 : https://shawnhuang0321.github.io/KaoHsiungTravelInfo/
 
@@ -64,3 +58,13 @@
 * Vue Router 建立前端路由，符合 SPA 架構。
 * 利用 axios 介接 API 與後端做溝通，並將 API 獨立出來做管理。
 * bootstrap 快速建立 Dashboard 版型。
+
+### 電商前台 : https://shawnhuang0321.github.io/playing-card-shopping/#/
+
+* Vue cli (2)
+* Vuex
+* Vue Router
+* Axios
+* vue-swiper
+* VeeValidate
+* 手刻 RWD (Scss)
