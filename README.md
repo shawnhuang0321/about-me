@@ -8,6 +8,9 @@
 ## 個人經歷
 * 瑋祥科技有限公司 - 環境工程師 ( 2017/06 ~ 2018/07)
 * 索特科技有限公司 - 前端工程師 ( 2018/09 ~ Now )
++ 負責會員端註冊頁面維護與開發。
++ 協助控端維護。
+
 
 ## 基本技能 ( Skills )
 ### HTML/CSS/RWD/Bootstrap/jQuery/JS
@@ -32,27 +35,26 @@
 ## 作業 ( works )
 * 響應式網頁 ( Resposive Web Design ) : https://shawnhuang0321.github.io/RWD-web/
 
-  * 利用 Bootstrap 製作網頁。
-  * jQuery 撰寫特效。
-  * 單頁式網頁。
++ 利用 Bootstrap 製作網頁。
++ jQuery 撰寫特效。
++ 單頁式網頁。
 
 * 韓國旅遊照片牆 : https://shawnhuang0321.github.io/KoreaTrip/
 
-  * Masonry Plugin 製作瀑布流版型。 
-  * light Box Plugin 製作燈箱效果。 
-  * Nivo Slider Plugin 製作輪播特效。
++ Masonry Plugin 製作瀑布流版型。 
++ light Box Plugin 製作燈箱效果。 
++ Nivo Slider Plugin 製作輪播特效。
   
 * 高雄旅遊資訊網 : https://shawnhuang0321.github.io/KaoHsiungTravelInfo/
 
-  * AJAX 介接 open data 的 JSON 資料。
-  * 使用 Vue.js 框架。
-  * Google maps API 製作地圖、標記。
++ AJAX 介接 open data 的 JSON 資料。
++ 使用 Vue.js 框架。
++ Google maps API 製作地圖、標記。
 
 * 電商後台 : https://shawnhuang0321.github.io/vue-shopping/#/
 
- * 運用技術
- + Vue cli (2) 建立開發環境。
- + 利用 Vuex 作資料管理。
- + Vue Router 建立前端路由，符合 SPA 架構。
- + 利用 axios 介接 API 與後端做溝通，並將 API 獨立出來做管理。
- + bootstrap 快速建立 Dashboard 版型。
++ Vue cli (2) 建立開發環境。
++ 利用 Vuex 作資料管理。
++ Vue Router 建立前端路由，符合 SPA 架構。
++ 利用 axios 介接 API 與後端做溝通，並將 API 獨立出來做管理。
++ bootstrap 快速建立 Dashboard 版型。
