@@ -31,11 +31,16 @@
 
 * Vue.js/Vuex
 
+### Back End Skill
+
+* Node.js/Express
+
 ### Other Skill
 
 * Webpack
 * Gulp
 * Git
+* firebase
 
 ## Side Projects
 
@@ -53,6 +58,7 @@
 
 ### 電商後台 : https://shawnhuang0321.github.io/vue-shopping/#/
 
+* [原始碼](https://github.com/shawnhuang0321/vue-shopping)
 * Vue cli (2) 建立開發環境。
 * 利用 Vuex 作資料管理。
 * Vue Router 建立前端路由，符合 SPA 架構。
@@ -61,6 +67,7 @@
 
 ### 電商前台 : https://shawnhuang0321.github.io/playing-card-shopping/#/
 
+* [原始碼](https://github.com/shawnhuang0321/playing-card-shopping)
 * Vue cli (2)
 * Vuex
 * Vue Router
