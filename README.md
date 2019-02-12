@@ -44,19 +44,19 @@
 
 ## Side Projects
 
-### 響應式網頁 ( Resposive Web Design ) : https://shawnhuang0321.github.io/RWD-web/
+### 響應式網頁 ( Resposive Web Design ) : [DEMO](https://shawnhuang0321.github.io/RWD-web/)
 
 * 利用 Bootstrap 製作網頁。
 * jQuery 撰寫特效。
 * 單頁式網頁。
   
-### 高雄旅遊資訊網 : https://shawnhuang0321.github.io/KaoHsiungTravelInfo/
+### 高雄旅遊資訊網 : [DEMO](https://shawnhuang0321.github.io/KaoHsiungTravelInfo/)
 
 * AJAX 介接 open data 的 JSON 資料。
 * 使用 Vue.js 框架。
 * Google maps API 製作地圖、標記。
 
-### 電商後台 : https://shawnhuang0321.github.io/vue-shopping/#/
+### 電商後台 : [DEMO](https://shawnhuang0321.github.io/vue-shopping/#/)
 
 * [原始碼](https://github.com/shawnhuang0321/vue-shopping)
 * Vue cli (2) 建立開發環境。
@@ -65,7 +65,7 @@
 * 利用 axios 介接 API 與後端做溝通，並將 API 獨立出來做管理。
 * bootstrap 快速建立 Dashboard 版型。
 
-### 電商前台 : https://shawnhuang0321.github.io/playing-card-shopping/#/
+### 電商前台 : [DEMO](https://shawnhuang0321.github.io/playing-card-shopping/#/)
 
 * [原始碼](https://github.com/shawnhuang0321/playing-card-shopping)
 * Vue cli (2)
