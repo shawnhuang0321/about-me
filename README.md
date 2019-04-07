@@ -1,7 +1,6 @@
 # 黃柏勝 ( Po-Sheng Huang )
 * 英文名字 ( English Name ) : Shawn
 * 現居地 ( Location ) : 台中 ( Taichung )
-* 個人網站 ( Personal Web ) : https://shawnhuang0321.github.io/personal-web/
 * 信箱 ( E-mail ) : shawn123456177@gmail.com
 * 興趣 ( interest ) : 閱讀書籍、撲克牌魔術愛好者、花式切牌菜鳥。
 
@@ -13,7 +12,7 @@
 * 負責現場監工、公安。
 * 廢水處理系統維護、設計、報價。
 
-### 索特科技有限公司 - 前端工程師 ( 2018/09 ~ Now )
+### 索特科技有限公司 - 前端工程師 ( 2018/09 ~ 2019/03 )
 
 * 負責會員端註冊頁面維護與開發。
 * 協助後台控端維護。
@@ -43,18 +42,6 @@
 * firebase
 
 ## Side Projects
-
-### 響應式網頁 ( Resposive Web Design ) : [DEMO](https://shawnhuang0321.github.io/RWD-web/)
-
-* 利用 Bootstrap 製作網頁。
-* jQuery 撰寫特效。
-* 單頁式網頁。
-  
-### 高雄旅遊資訊網 : [DEMO](https://shawnhuang0321.github.io/KaoHsiungTravelInfo/)
-
-* AJAX 介接 open data 的 JSON 資料。
-* 使用 Vue.js 框架。
-* Google maps API 製作地圖、標記。
 
 ### 電商後台 : [DEMO](https://shawnhuang0321.github.io/vue-shopping/#/)
 
