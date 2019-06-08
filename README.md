@@ -72,3 +72,7 @@
 * vue-swiper
 * VeeValidate
 * 手刻 RWD (Scss)
+
+## More
+
+* 2019 iT 邦幫忙鐵人賽：[Vue 學習筆記](https://ithelp.ithome.com.tw/users/20111589/ironman/1632) (鐵人練成)。
