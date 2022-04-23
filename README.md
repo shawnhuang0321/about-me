@@ -2,21 +2,23 @@
 * 英文名字 ( English Name ) : Shawn
 * 現居地 ( Location ) : 台中 ( Taichung )
 * 信箱 ( E-mail ) : shawn123456177@gmail.com
-* 興趣 ( interest ) : 閱讀書籍、撲克牌魔術愛好者、花式切牌菜鳥。
+* 興趣 ( interest ) : 閱讀書籍、重訓、爬山、爵士鼓、烏克麗麗。
 * CakeResume : [履歷表](https://www.cakeresume.com/shawn123456177)
 
 ## Career
 
 ### 就肆電競 ( 4Gamers ) - 前端工程師 ( 2019/07 ~ Now )
 
-* 開發、維護公司官網，使用 TypeScript、Vue.js。
+* 開發、維護公司官網，使用 TypeScript、Vue.js，有多國語系 i18n。
+* 新增許多功能，如影音專區、競猜系統、話題系統、會員福利相關頁面等。
+* 官網：[4Gamers](https://www.4gamers.com.tw/) 
 
 ### 思凱睿克有限公司 ( SkyRec ) - 前端工程師 ( 2019/03 ~ 2019/06 )
 
 * 獨立開發公司北京世園會展覽前端介面，資料皆由 WebSocket 即時取得。
 * 負責公司第三代產品開發，包括考勤系統、全新 BI 介面，皆以 Vue.js 搭配 TypeScript 撰寫。
 
-### 索特科技有限公司 - 前端工程師 ( 2018/09 ~ 2019/03 )
+### 索特科技有限公司 ( Soter ) - 前端工程師 ( 2018/09 ~ 2019/03 )
 
 * 負責會員端註冊頁面維護與開發。
 * 協助後台控端維護。
@@ -31,7 +33,7 @@
 
 ### Basic Skill
 
-* HTML/CSS/SCSS/JavaScript
+* HTML/CSS/SCSS/JavaScript/TypeScript
 * RWD
 * ES6
 * AJAX/Axios
@@ -40,8 +42,6 @@
 
 * Vue.js
 * Vuex
-* React.js
-* Redux
 
 ### Back End Skill
 
